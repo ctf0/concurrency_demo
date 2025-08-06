@@ -1,0 +1,14 @@
+includes:
+  - vendor/phpstan/phpstan/conf/bleedingEdge.neon
+
+parameters:
+  level: 6
+  ignoreErrors:
+    - identifier: missingType.iterableValue
+    - identifier: missingType.generics
+    - identifier: argument.templateType
+  paths:
+    - app
+    - Modules
+  excludePaths:
+    - */vendor/*

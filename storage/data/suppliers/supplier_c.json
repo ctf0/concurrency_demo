@@ -1,0 +1,1005 @@
+{
+    "hotels": [
+        {
+            "reference": "c_001",
+            "property_name": "Le Grand Palace",
+            "destination": "Paris",
+            "nation": "France",
+            "cost_per_night": 260.0,
+            "vacancy": 10,
+            "quality_score": 4.9,
+            "geo": {
+                "latitude": 48.8566,
+                "longitude": 2.3522
+            }
+        },
+        {
+            "reference": "c_002",
+            "property_name": "Tropical Beach Hotel",
+            "destination": "Miami",
+            "nation": "USA",
+            "cost_per_night": 175.0,
+            "vacancy": 6,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 25.7617,
+                "longitude": -80.1918
+            }
+        },
+        {
+            "reference": "c_003",
+            "property_name": "Snow Peak Lodge",
+            "destination": "Aspen",
+            "nation": "USA",
+            "cost_per_night": 310.0,
+            "vacancy": 4,
+            "quality_score": 4.7,
+            "geo": {
+                "latitude": 39.1911,
+                "longitude": -106.8175
+            }
+        },
+        {
+            "reference": "c_004",
+            "property_name": "Thames View Hotel",
+            "destination": "London",
+            "nation": "UK",
+            "cost_per_night": 160.0,
+            "vacancy": 18,
+            "quality_score": 4.0,
+            "geo": {
+                "latitude": 51.5074,
+                "longitude": -0.1278
+            }
+        },
+        {
+            "reference": "c_005",
+            "property_name": "Gaudi Boutique Hotel",
+            "destination": "Barcelona",
+            "nation": "Spain",
+            "cost_per_night": 210.0,
+            "vacancy": 7,
+            "quality_score": 4.6,
+            "geo": {
+                "latitude": 41.3851,
+                "longitude": 2.1734
+            }
+        },
+        {
+            "reference": "c_006",
+            "property_name": "Swiss Alpine Resort",
+            "destination": "Zurich",
+            "nation": "Switzerland",
+            "cost_per_night": 405.0,
+            "vacancy": 5,
+            "quality_score": 4.8,
+            "geo": {
+                "latitude": 47.3769,
+                "longitude": 8.5417
+            }
+        },
+        {
+            "reference": "c_007",
+            "property_name": "Emirates Palace Hotel",
+            "destination": "Dubai",
+            "nation": "UAE",
+            "cost_per_night": 485.0,
+            "vacancy": 12,
+            "quality_score": 4.9,
+            "geo": {
+                "latitude": 25.2048,
+                "longitude": 55.2708
+            }
+        },
+        {
+            "reference": "c_008",
+            "property_name": "Castle Highlands Hotel",
+            "destination": "Edinburgh",
+            "nation": "UK",
+            "cost_per_night": 205.0,
+            "vacancy": 8,
+            "quality_score": 4.4,
+            "geo": {
+                "latitude": 55.9533,
+                "longitude": -3.1883
+            }
+        },
+        {
+            "reference": "c_009",
+            "property_name": "Pacific Coast Lodge",
+            "destination": "Vancouver",
+            "nation": "Canada",
+            "cost_per_night": 185.0,
+            "vacancy": 13,
+            "quality_score": 4.2,
+            "geo": {
+                "latitude": 49.2827,
+                "longitude": -123.1207
+            }
+        },
+        {
+            "reference": "c_010",
+            "property_name": "Imperial Tokyo Hotel",
+            "destination": "Tokyo",
+            "nation": "Japan",
+            "cost_per_night": 305.0,
+            "vacancy": 9,
+            "quality_score": 4.7,
+            "geo": {
+                "latitude": 35.6762,
+                "longitude": 139.6503
+            }
+        },
+        {
+            "reference": "c_011",
+            "property_name": "Sunset Bay Resort",
+            "destination": "San Diego",
+            "nation": "USA",
+            "cost_per_night": 195.0,
+            "vacancy": 16,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 32.7157,
+                "longitude": -117.1611
+            }
+        },
+        {
+            "reference": "c_012",
+            "property_name": "Garden City Hotel",
+            "destination": "Singapore",
+            "nation": "Singapore",
+            "cost_per_night": 245.0,
+            "vacancy": 20,
+            "quality_score": 4.5,
+            "geo": {
+                "latitude": 1.3521,
+                "longitude": 103.8198
+            }
+        },
+        {
+            "reference": "c_013",
+            "property_name": "Habsburg Palace Hotel",
+            "destination": "Vienna",
+            "nation": "Austria",
+            "cost_per_night": 315.0,
+            "vacancy": 6,
+            "quality_score": 4.8,
+            "geo": {
+                "latitude": 48.2082,
+                "longitude": 16.3738
+            }
+        },
+        {
+            "reference": "c_014",
+            "property_name": "Diamond Head Resort",
+            "destination": "Honolulu",
+            "nation": "USA",
+            "cost_per_night": 375.0,
+            "vacancy": 2,
+            "quality_score": 4.9,
+            "geo": {
+                "latitude": 21.3099,
+                "longitude": -157.8581
+            }
+        },
+        {
+            "reference": "c_015",
+            "property_name": "Viking Heritage Hotel",
+            "destination": "Stockholm",
+            "nation": "Sweden",
+            "cost_per_night": 205.0,
+            "vacancy": 11,
+            "quality_score": 4.3,
+            "geo": {
+                "latitude": 59.3293,
+                "longitude": 18.0686
+            }
+        },
+        {
+            "reference": "c_016",
+            "property_name": "Golden City Hotel",
+            "destination": "Prague",
+            "nation": "Czech Republic",
+            "cost_per_night": 165.0,
+            "vacancy": 14,
+            "quality_score": 4.2,
+            "geo": {
+                "latitude": 50.0755,
+                "longitude": 14.4378
+            }
+        },
+        {
+            "reference": "c_017",
+            "property_name": "Empire State Suites",
+            "destination": "New York",
+            "nation": "USA",
+            "cost_per_night": 445.0,
+            "vacancy": 1,
+            "quality_score": 4.8,
+            "geo": {
+                "latitude": 40.7128,
+                "longitude": -74.006
+            }
+        },
+        {
+            "reference": "c_018",
+            "property_name": "Renaissance Palazzo",
+            "destination": "Florence",
+            "nation": "Italy",
+            "cost_per_night": 285.0,
+            "vacancy": 4,
+            "quality_score": 4.7,
+            "geo": {
+                "latitude": 43.7696,
+                "longitude": 11.2558
+            }
+        },
+        {
+            "reference": "c_019",
+            "property_name": "Opera House Hotel",
+            "destination": "Sydney",
+            "nation": "Australia",
+            "cost_per_night": 215.0,
+            "vacancy": 17,
+            "quality_score": 4.4,
+            "geo": {
+                "latitude": -33.8688,
+                "longitude": 151.2093
+            }
+        },
+        {
+            "reference": "c_020",
+            "property_name": "Pharaoh's Palace",
+            "destination": "Cairo",
+            "nation": "Egypt",
+            "cost_per_night": 145.0,
+            "vacancy": 22,
+            "quality_score": 3.9,
+            "geo": {
+                "latitude": 30.0444,
+                "longitude": 31.2357
+            }
+        },
+        {
+            "reference": "c_021",
+            "property_name": "Ipanema Beach Resort",
+            "destination": "Rio de Janeiro",
+            "nation": "Brazil",
+            "cost_per_night": 175.0,
+            "vacancy": 8,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": -22.9068,
+                "longitude": -43.1729
+            }
+        },
+        {
+            "reference": "c_042",
+            "property_name": "Cliffs of Moher Hotel",
+            "destination": "Cork",
+            "nation": "Ireland",
+            "cost_per_night": 175.0,
+            "vacancy": 16,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 51.8985,
+                "longitude": -8.4756
+            }
+        },
+        {
+            "reference": "c_043",
+            "property_name": "Registan Palace",
+            "destination": "Samarkand",
+            "nation": "Uzbekistan",
+            "cost_per_night": 135.0,
+            "vacancy": 17,
+            "quality_score": 3.9,
+            "geo": {
+                "latitude": 39.627,
+                "longitude": 66.9749
+            }
+        },
+        {
+            "reference": "c_044",
+            "property_name": "Aurora Expedition Lodge",
+            "destination": "Tromsø",
+            "nation": "Norway",
+            "cost_per_night": 315.0,
+            "vacancy": 3,
+            "quality_score": 4.7,
+            "geo": {
+                "latitude": 69.6492,
+                "longitude": 18.9553
+            }
+        },
+        {
+            "reference": "c_045",
+            "property_name": "Tiger Hill Resort",
+            "destination": "Darjeeling",
+            "nation": "India",
+            "cost_per_night": 95.0,
+            "vacancy": 26,
+            "quality_score": 3.7,
+            "geo": {
+                "latitude": 27.036,
+                "longitude": 88.2627
+            }
+        },
+        {
+            "reference": "c_046",
+            "property_name": "Neuschwanstein Castle Hotel",
+            "destination": "Munich",
+            "nation": "Germany",
+            "cost_per_night": 235.0,
+            "vacancy": 8,
+            "quality_score": 4.4,
+            "geo": {
+                "latitude": 48.1351,
+                "longitude": 11.582
+            }
+        },
+        {
+            "reference": "c_047",
+            "property_name": "Uluru Sunset Resort",
+            "destination": "Alice Springs",
+            "nation": "Australia",
+            "cost_per_night": 165.0,
+            "vacancy": 13,
+            "quality_score": 4.0,
+            "geo": {
+                "latitude": -23.698,
+                "longitude": 133.8807
+            }
+        },
+        {
+            "reference": "c_048",
+            "property_name": "San Marco Palace",
+            "destination": "Venice",
+            "nation": "Italy",
+            "cost_per_night": 355.0,
+            "vacancy": 2,
+            "quality_score": 4.8,
+            "geo": {
+                "latitude": 45.4408,
+                "longitude": 12.3155
+            }
+        },
+        {
+            "reference": "c_049",
+            "property_name": "Namba District Hotel",
+            "destination": "Osaka",
+            "nation": "Japan",
+            "cost_per_night": 205.0,
+            "vacancy": 11,
+            "quality_score": 4.2,
+            "geo": {
+                "latitude": 34.6937,
+                "longitude": 135.5023
+            }
+        },
+        {
+            "reference": "c_050",
+            "property_name": "Chugach Mountains Lodge",
+            "destination": "Anchorage",
+            "nation": "USA",
+            "cost_per_night": 245.0,
+            "vacancy": 5,
+            "quality_score": 4.5,
+            "geo": {
+                "latitude": 61.2181,
+                "longitude": -149.9003
+            }
+        },
+        {
+            "reference": "c_051",
+            "property_name": "Hassan II Palace Hotel",
+            "destination": "Casablanca",
+            "nation": "Morocco",
+            "cost_per_night": 145.0,
+            "vacancy": 18,
+            "quality_score": 3.9,
+            "geo": {
+                "latitude": 33.5731,
+                "longitude": -7.5898
+            }
+        },
+        {
+            "reference": "c_052",
+            "property_name": "Walled City Hotel",
+            "destination": "Cartagena",
+            "nation": "Colombia",
+            "cost_per_night": 185.0,
+            "vacancy": 9,
+            "quality_score": 4.3,
+            "geo": {
+                "latitude": 10.391,
+                "longitude": -75.4794
+            }
+        },
+        {
+            "reference": "c_053",
+            "property_name": "Art Nouveau Hotel",
+            "destination": "Riga",
+            "nation": "Latvia",
+            "cost_per_night": 155.0,
+            "vacancy": 15,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 56.9496,
+                "longitude": 24.1052
+            }
+        },
+        {
+            "reference": "c_054",
+            "property_name": "Sacred Valley Lodge",
+            "destination": "Cusco",
+            "nation": "Peru",
+            "cost_per_night": 165.0,
+            "vacancy": 10,
+            "quality_score": 4.2,
+            "geo": {
+                "latitude": -13.5319,
+                "longitude": -71.9675
+            }
+        },
+        {
+            "reference": "c_055",
+            "property_name": "Château Margaux Hotel",
+            "destination": "Bordeaux",
+            "nation": "France",
+            "cost_per_night": 215.0,
+            "vacancy": 7,
+            "quality_score": 4.4,
+            "geo": {
+                "latitude": 44.8378,
+                "longitude": -0.5792
+            }
+        },
+        {
+            "reference": "c_056",
+            "property_name": "Hermitage Palace Hotel",
+            "destination": "St. Petersburg",
+            "nation": "Russia",
+            "cost_per_night": 135.0,
+            "vacancy": 21,
+            "quality_score": 3.8,
+            "geo": {
+                "latitude": 59.9311,
+                "longitude": 30.3609
+            }
+        },
+        {
+            "reference": "c_057",
+            "property_name": "Haleakala Crater Resort",
+            "destination": "Maui",
+            "nation": "USA",
+            "cost_per_night": 425.0,
+            "vacancy": 3,
+            "quality_score": 4.9,
+            "geo": {
+                "latitude": 20.7984,
+                "longitude": -156.3319
+            }
+        },
+        {
+            "reference": "c_058",
+            "property_name": "Aurora Lodge",
+            "destination": "Yellowknife",
+            "nation": "Canada",
+            "cost_per_night": 195.0,
+            "vacancy": 6,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 62.454,
+                "longitude": -114.3718
+            }
+        },
+        {
+            "reference": "c_059",
+            "property_name": "Solidarity Square Hotel",
+            "destination": "Warsaw",
+            "nation": "Poland",
+            "cost_per_night": 145.0,
+            "vacancy": 19,
+            "quality_score": 4.0,
+            "geo": {
+                "latitude": 52.2297,
+                "longitude": 21.0122
+            }
+        },
+        {
+            "reference": "c_060",
+            "property_name": "Bayon Temple Hotel",
+            "destination": "Angkor",
+            "nation": "Cambodia",
+            "cost_per_night": 105.0,
+            "vacancy": 22,
+            "quality_score": 3.7,
+            "geo": {
+                "latitude": 13.4125,
+                "longitude": 103.867
+            }
+        },
+        {
+            "reference": "c_061",
+            "property_name": "Little Mermaid Hotel",
+            "destination": "Copenhagen",
+            "nation": "Denmark",
+            "cost_per_night": 265.0,
+            "vacancy": 8,
+            "quality_score": 4.6,
+            "geo": {
+                "latitude": 55.6761,
+                "longitude": 12.5683
+            }
+        },
+        {
+            "reference": "c_062",
+            "property_name": "Cape Horn Lodge",
+            "destination": "Ushuaia",
+            "nation": "Argentina",
+            "cost_per_night": 225.0,
+            "vacancy": 5,
+            "quality_score": 4.3,
+            "geo": {
+                "latitude": -54.8019,
+                "longitude": -68.303
+            }
+        },
+        {
+            "reference": "c_063",
+            "property_name": "Eternal City Palace",
+            "destination": "Rome",
+            "nation": "Italy",
+            "cost_per_night": 335.0,
+            "vacancy": 3,
+            "quality_score": 4.7,
+            "geo": {
+                "latitude": 41.9028,
+                "longitude": 12.4964
+            }
+        },
+        {
+            "reference": "c_064",
+            "property_name": "Gateway of India Hotel",
+            "destination": "Mumbai",
+            "nation": "India",
+            "cost_per_night": 125.0,
+            "vacancy": 25,
+            "quality_score": 3.9,
+            "geo": {
+                "latitude": 19.076,
+                "longitude": 72.8777
+            }
+        },
+        {
+            "reference": "c_065",
+            "property_name": "Golden Roof Hotel",
+            "destination": "Innsbruck",
+            "nation": "Austria",
+            "cost_per_night": 235.0,
+            "vacancy": 9,
+            "quality_score": 4.4,
+            "geo": {
+                "latitude": 47.2692,
+                "longitude": 11.4041
+            }
+        },
+        {
+            "reference": "c_066",
+            "property_name": "Karnak Temple Hotel",
+            "destination": "Luxor",
+            "nation": "Egypt",
+            "cost_per_night": 115.0,
+            "vacancy": 20,
+            "quality_score": 3.8,
+            "geo": {
+                "latitude": 25.6872,
+                "longitude": 32.6396
+            }
+        },
+        {
+            "reference": "c_067",
+            "property_name": "Kings Park Resort",
+            "destination": "Perth",
+            "nation": "Australia",
+            "cost_per_night": 175.0,
+            "vacancy": 11,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": -31.9505,
+                "longitude": 115.8605
+            }
+        },
+        {
+            "reference": "c_068",
+            "property_name": "Alcatraz View Hotel",
+            "destination": "San Francisco",
+            "nation": "USA",
+            "cost_per_night": 315.0,
+            "vacancy": 4,
+            "quality_score": 4.6,
+            "geo": {
+                "latitude": 37.7749,
+                "longitude": -122.4194
+            }
+        },
+        {
+            "reference": "c_069",
+            "property_name": "Zócalo Plaza Hotel",
+            "destination": "Mexico City",
+            "nation": "Mexico",
+            "cost_per_night": 135.0,
+            "vacancy": 14,
+            "quality_score": 3.9,
+            "geo": {
+                "latitude": 19.4326,
+                "longitude": -99.1332
+            }
+        },
+        {
+            "reference": "c_070",
+            "property_name": "Junk Bay Resort",
+            "destination": "Halong Bay",
+            "nation": "Vietnam",
+            "cost_per_night": 155.0,
+            "vacancy": 16,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 20.9101,
+                "longitude": 107.1839
+            }
+        },
+        {
+            "reference": "c_071",
+            "property_name": "Old Quebec Hotel",
+            "destination": "Quebec City",
+            "nation": "Canada",
+            "cost_per_night": 185.0,
+            "vacancy": 10,
+            "quality_score": 4.2,
+            "geo": {
+                "latitude": 46.8139,
+                "longitude": -71.2082
+            }
+        },
+        {
+            "reference": "c_072",
+            "property_name": "Giralda Tower Hotel",
+            "destination": "Seville",
+            "nation": "Spain",
+            "cost_per_night": 205.0,
+            "vacancy": 8,
+            "quality_score": 4.3,
+            "geo": {
+                "latitude": 37.3891,
+                "longitude": -5.9845
+            }
+        },
+        {
+            "reference": "c_073",
+            "property_name": "Medina Heritage Hotel",
+            "destination": "Tunis",
+            "nation": "Tunisia",
+            "cost_per_night": 125.0,
+            "vacancy": 23,
+            "quality_score": 3.8,
+            "geo": {
+                "latitude": 36.8065,
+                "longitude": 10.1815
+            }
+        },
+        {
+            "reference": "c_074",
+            "property_name": "Blue Lagoon Paradise Resort",
+            "destination": "Reykjavik",
+            "nation": "Iceland",
+            "cost_per_night": 305.0,
+            "vacancy": 6,
+            "quality_score": 4.7,
+            "geo": {
+                "latitude": 64.1466,
+                "longitude": -21.9426
+            }
+        },
+        {
+            "reference": "c_083",
+            "property_name": "Atomic Dome Hotel",
+            "destination": "Hiroshima",
+            "nation": "Japan",
+            "cost_per_night": 195.0,
+            "vacancy": 9,
+            "quality_score": 4.2,
+            "geo": {
+                "latitude": 34.3853,
+                "longitude": 132.4553
+            }
+        },
+        {
+            "reference": "c_084",
+            "property_name": "Polar Bear Lodge",
+            "destination": "Fairbanks",
+            "nation": "USA",
+            "cost_per_night": 215.0,
+            "vacancy": 4,
+            "quality_score": 4.4,
+            "geo": {
+                "latitude": 64.8378,
+                "longitude": -147.7164
+            }
+        },
+        {
+            "reference": "c_085",
+            "property_name": "Pocitos Beach Hotel",
+            "destination": "Montevideo",
+            "nation": "Uruguay",
+            "cost_per_night": 155.0,
+            "vacancy": 14,
+            "quality_score": 3.9,
+            "geo": {
+                "latitude": -34.9011,
+                "longitude": -56.1645
+            }
+        },
+        {
+            "reference": "c_086",
+            "property_name": "Camelback Mountain Resort",
+            "destination": "Phoenix",
+            "nation": "USA",
+            "cost_per_night": 185.0,
+            "vacancy": 17,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 33.4484,
+                "longitude": -112.074
+            }
+        },
+        {
+            "reference": "c_087",
+            "property_name": "Lapland Ice Hotel",
+            "destination": "Rovaniemi",
+            "nation": "Finland",
+            "cost_per_night": 365.0,
+            "vacancy": 2,
+            "quality_score": 4.8,
+            "geo": {
+                "latitude": 66.5039,
+                "longitude": 25.7294
+            }
+        },
+        {
+            "reference": "c_088",
+            "property_name": "Spice Route Hotel",
+            "destination": "Zanzibar",
+            "nation": "Tanzania",
+            "cost_per_night": 165.0,
+            "vacancy": 10,
+            "quality_score": 4.2,
+            "geo": {
+                "latitude": -6.1659,
+                "longitude": 39.2026
+            }
+        },
+        {
+            "reference": "c_089",
+            "property_name": "Malbec Valley Lodge",
+            "destination": "Mendoza",
+            "nation": "Argentina",
+            "cost_per_night": 155.0,
+            "vacancy": 12,
+            "quality_score": 4.0,
+            "geo": {
+                "latitude": -32.8895,
+                "longitude": -68.8458
+            }
+        },
+        {
+            "reference": "c_090",
+            "property_name": "Stampede City Hotel",
+            "destination": "Calgary",
+            "nation": "Canada",
+            "cost_per_night": 175.0,
+            "vacancy": 16,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 51.0447,
+                "longitude": -114.0719
+            }
+        },
+        {
+            "reference": "c_091",
+            "property_name": "Te Puia Lodge",
+            "destination": "Rotorua",
+            "nation": "New Zealand",
+            "cost_per_night": 195.0,
+            "vacancy": 8,
+            "quality_score": 4.3,
+            "geo": {
+                "latitude": -38.1368,
+                "longitude": 176.2497
+            }
+        },
+        {
+            "reference": "c_092",
+            "property_name": "Tarahumara Lodge",
+            "destination": "Chihuahua",
+            "nation": "Mexico",
+            "cost_per_night": 125.0,
+            "vacancy": 18,
+            "quality_score": 3.8,
+            "geo": {
+                "latitude": 28.6353,
+                "longitude": -106.0889
+            }
+        },
+        {
+            "reference": "c_093",
+            "property_name": "Rice Terrace Resort",
+            "destination": "Bali",
+            "nation": "Indonesia",
+            "cost_per_night": 135.0,
+            "vacancy": 15,
+            "quality_score": 3.9,
+            "geo": {
+                "latitude": -8.3405,
+                "longitude": 115.092
+            }
+        },
+        {
+            "reference": "c_094",
+            "property_name": "Gold Rush Lodge",
+            "destination": "Whitehorse",
+            "nation": "Canada",
+            "cost_per_night": 165.0,
+            "vacancy": 6,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 60.7212,
+                "longitude": -135.0568
+            }
+        },
+        {
+            "reference": "c_095",
+            "property_name": "Côte d'Azur Palace",
+            "destination": "Nice",
+            "nation": "France",
+            "cost_per_night": 255.0,
+            "vacancy": 5,
+            "quality_score": 4.5,
+            "geo": {
+                "latitude": 43.7102,
+                "longitude": 7.262
+            }
+        },
+        {
+            "reference": "c_096",
+            "property_name": "Table Mountain Lodge",
+            "destination": "Johannesburg",
+            "nation": "South Africa",
+            "cost_per_night": 145.0,
+            "vacancy": 13,
+            "quality_score": 4.0,
+            "geo": {
+                "latitude": -26.2041,
+                "longitude": 28.0473
+            }
+        },
+        {
+            "reference": "c_097",
+            "property_name": "Intramuros Heritage Hotel",
+            "destination": "Manila",
+            "nation": "Philippines",
+            "cost_per_night": 115.0,
+            "vacancy": 21,
+            "quality_score": 3.7,
+            "geo": {
+                "latitude": 14.5995,
+                "longitude": 120.9842
+            }
+        },
+        {
+            "reference": "c_098",
+            "property_name": "Gediminas Tower Hotel",
+            "destination": "Vilnius",
+            "nation": "Lithuania",
+            "cost_per_night": 135.0,
+            "vacancy": 14,
+            "quality_score": 3.9,
+            "geo": {
+                "latitude": 54.6872,
+                "longitude": 25.2797
+            }
+        },
+        {
+            "reference": "c_099",
+            "property_name": "Coral Atoll Resort",
+            "destination": "Seychelles",
+            "nation": "Seychelles",
+            "cost_per_night": 525.0,
+            "vacancy": 1,
+            "quality_score": 4.9,
+            "geo": {
+                "latitude": -4.6796,
+                "longitude": 55.492
+            }
+        },
+        {
+            "reference": "c_100",
+            "property_name": "Sava River Hotel",
+            "destination": "Belgrade",
+            "nation": "Serbia",
+            "cost_per_night": 105.0,
+            "vacancy": 20,
+            "quality_score": 3.7,
+            "geo": {
+                "latitude": 44.7866,
+                "longitude": 20.4489
+            }
+        },
+        {
+            "reference": "c_101",
+            "property_name": "Western Wall Hotel",
+            "destination": "Jerusalem",
+            "nation": "Israel",
+            "cost_per_night": 225.0,
+            "vacancy": 7,
+            "quality_score": 4.3,
+            "geo": {
+                "latitude": 31.7683,
+                "longitude": 35.2137
+            }
+        },
+        {
+            "reference": "c_102",
+            "property_name": "Phi Phi Island Resort",
+            "destination": "Phuket",
+            "nation": "Thailand",
+            "cost_per_night": 205.0,
+            "vacancy": 8,
+            "quality_score": 4.4,
+            "geo": {
+                "latitude": 7.8804,
+                "longitude": 98.3923
+            }
+        },
+        {
+            "reference": "c_103",
+            "property_name": "Belfry Tower Hotel",
+            "destination": "Bruges",
+            "nation": "Belgium",
+            "cost_per_night": 195.0,
+            "vacancy": 5,
+            "quality_score": 4.2,
+            "geo": {
+                "latitude": 51.2093,
+                "longitude": 3.2247
+            }
+        },
+        {
+            "reference": "c_104",
+            "property_name": "Rocky Mountain High Hotel",
+            "destination": "Denver",
+            "nation": "USA",
+            "cost_per_night": 205.0,
+            "vacancy": 11,
+            "quality_score": 4.1,
+            "geo": {
+                "latitude": 39.7392,
+                "longitude": -104.9903
+            }
+        },
+        {
+            "reference": "c_105",
+            "property_name": "Medieval Towers Hotel",
+            "destination": "Tallinn",
+            "nation": "Estonia",
+            "cost_per_night": 145.0,
+            "vacancy": 12,
+            "quality_score": 4.0,
+            "geo": {
+                "latitude": 59.437,
+                "longitude": 24.7536
+            }
+        }
+    ]
+}

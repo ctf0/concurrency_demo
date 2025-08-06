@@ -1,0 +1,467 @@
+{
+    "status": "success",
+    "data": {
+        "properties": [
+            {
+                "property_id": "d_xyz_001",
+                "title": "Royal Palace Hotel",
+                "city_name": "Paris",
+                "country_code": "FR",
+                "room_rate": 245.0,
+                "rooms_left": 9,
+                "guest_rating": 4.8,
+                "coordinates": [48.8566, 2.3522]
+            },
+            {
+                "property_id": "d_xyz_002",
+                "title": "Miami Beach Resort",
+                "city_name": "Miami",
+                "country_code": "US",
+                "room_rate": 190.0,
+                "rooms_left": 11,
+                "guest_rating": 4.2,
+                "coordinates": [25.7617, -80.1918]
+            },
+            {
+                "property_id": "d_xyz_003",
+                "title": "Rocky Mountain Inn",
+                "city_name": "Aspen",
+                "country_code": "US",
+                "room_rate": 330.0,
+                "rooms_left": 1,
+                "guest_rating": 4.9,
+                "coordinates": [39.1911, -106.8175]
+            },
+            {
+                "property_id": "d_xyz_004",
+                "title": "London Bridge Hotel",
+                "city_name": "London",
+                "country_code": "GB",
+                "room_rate": 155.0,
+                "rooms_left": 22,
+                "guest_rating": 3.7,
+                "coordinates": [51.5074, -0.1278]
+            },
+            {
+                "property_id": "d_xyz_014",
+                "title": "Waikiki Grand Resort",
+                "city_name": "Honolulu",
+                "country_code": "US",
+                "room_rate": 395.0,
+                "rooms_left": 2,
+                "guest_rating": 4.9,
+                "coordinates": [21.3099, -157.8581]
+            },
+            {
+                "property_id": "d_xyz_015",
+                "title": "Gamla Stan Hotel",
+                "city_name": "Stockholm",
+                "country_code": "SE",
+                "room_rate": 225.0,
+                "rooms_left": 10,
+                "guest_rating": 4.4,
+                "coordinates": [59.3293, 18.0686]
+            },
+            {
+                "property_id": "d_xyz_016",
+                "title": "Charles Bridge Inn",
+                "city_name": "Prague",
+                "country_code": "CZ",
+                "room_rate": 175.0,
+                "rooms_left": 13,
+                "guest_rating": 4.2,
+                "coordinates": [50.0755, 14.4378]
+            },
+            {
+                "property_id": "d_xyz_017",
+                "title": "Central Park Suites",
+                "city_name": "New York",
+                "country_code": "US",
+                "room_rate": 465.0,
+                "rooms_left": 1,
+                "guest_rating": 4.8,
+                "coordinates": [40.7128, -74.006]
+            },
+            {
+                "property_id": "d_xyz_018",
+                "title": "Duomo View Hotel",
+                "city_name": "Florence",
+                "country_code": "IT",
+                "room_rate": 305.0,
+                "rooms_left": 5,
+                "guest_rating": 4.7,
+                "coordinates": [43.7696, 11.2558]
+            },
+            {
+                "property_id": "d_xyz_019",
+                "title": "Circular Quay Hotel",
+                "city_name": "Sydney",
+                "country_code": "AU",
+                "room_rate": 235.0,
+                "rooms_left": 16,
+                "guest_rating": 4.5,
+                "coordinates": [-33.8688, 151.2093]
+            },
+            {
+                "property_id": "d_xyz_020",
+                "title": "Giza Pyramid Hotel",
+                "city_name": "Cairo",
+                "country_code": "EG",
+                "room_rate": 165.0,
+                "rooms_left": 20,
+                "guest_rating": 4.0,
+                "coordinates": [30.0444, 31.2357]
+            },
+            {
+                "property_id": "d_xyz_021",
+                "title": "Sugarloaf Resort",
+                "city_name": "Rio de Janeiro",
+                "country_code": "BR",
+                "room_rate": 195.0,
+                "rooms_left": 9,
+                "guest_rating": 4.2,
+                "coordinates": [-22.9068, -43.1729]
+            },
+            {
+                "property_id": "d_xyz_022",
+                "title": "Blue Lagoon Hotel",
+                "city_name": "Reykjavik",
+                "country_code": "IS",
+                "room_rate": 255.0,
+                "rooms_left": 6,
+                "guest_rating": 4.6,
+                "coordinates": [64.1466, -21.9426]
+            },
+            {
+                "property_id": "d_xyz_023",
+                "title": "Puerto Madero Hotel",
+                "city_name": "Buenos Aires",
+                "country_code": "AR",
+                "room_rate": 175.0,
+                "rooms_left": 14,
+                "guest_rating": 4.3,
+                "coordinates": [-34.6037, -58.3816]
+            },
+            {
+                "property_id": "d_xyz_024",
+                "title": "Safari Park Lodge",
+                "city_name": "Nairobi",
+                "country_code": "KE",
+                "room_rate": 225.0,
+                "rooms_left": 8,
+                "guest_rating": 4.2,
+                "coordinates": [-1.2921, 36.8219]
+            },
+            {
+                "property_id": "d_xyz_025",
+                "title": "Golden Pavilion Hotel",
+                "city_name": "Kyoto",
+                "country_code": "JP",
+                "room_rate": 285.0,
+                "rooms_left": 4,
+                "guest_rating": 4.7,
+                "coordinates": [35.0116, 135.7681]
+            },
+            {
+                "property_id": "d_xyz_026",
+                "title": "Fjord Vista Lodge",
+                "city_name": "Bergen",
+                "country_code": "NO",
+                "room_rate": 265.0,
+                "rooms_left": 7,
+                "guest_rating": 4.5,
+                "coordinates": [60.3913, 5.3221]
+            },
+            {
+                "property_id": "d_xyz_027",
+                "title": "Hagia Sophia Hotel",
+                "city_name": "Istanbul",
+                "country_code": "TR",
+                "room_rate": 185.0,
+                "rooms_left": 17,
+                "guest_rating": 4.1,
+                "coordinates": [41.0082, 28.9784]
+            },
+            {
+                "property_id": "d_xyz_028",
+                "title": "Temple Bar Inn",
+                "city_name": "Dublin",
+                "country_code": "IE",
+                "room_rate": 215.0,
+                "rooms_left": 11,
+                "guest_rating": 4.4,
+                "coordinates": [53.3498, -6.2603]
+            },
+            {
+                "property_id": "d_xyz_029",
+                "title": "Medina Riad Hotel",
+                "city_name": "Marrakech",
+                "country_code": "MA",
+                "room_rate": 205.0,
+                "rooms_left": 12,
+                "guest_rating": 4.2,
+                "coordinates": [31.6295, -7.9811]
+            },
+            {
+                "property_id": "d_xyz_030",
+                "title": "CN Tower Hotel",
+                "city_name": "Toronto",
+                "country_code": "CA",
+                "room_rate": 215.0,
+                "rooms_left": 16,
+                "guest_rating": 4.3,
+                "coordinates": [43.6532, -79.3832]
+            },
+            {
+                "property_id": "d_xyz_031",
+                "title": "Acropolis Hill Hotel",
+                "city_name": "Athens",
+                "country_code": "GR",
+                "room_rate": 205.0,
+                "rooms_left": 9,
+                "guest_rating": 4.2,
+                "coordinates": [37.9755, 23.7348]
+            },
+            {
+                "property_id": "d_xyz_032",
+                "title": "Chao Phraya Hotel",
+                "city_name": "Bangkok",
+                "country_code": "TH",
+                "room_rate": 135.0,
+                "rooms_left": 23,
+                "guest_rating": 3.9,
+                "coordinates": [13.7563, 100.5018]
+            },
+            {
+                "property_id": "d_xyz_033",
+                "title": "Chain Bridge Hotel",
+                "city_name": "Budapest",
+                "country_code": "HU",
+                "room_rate": 185.0,
+                "rooms_left": 13,
+                "guest_rating": 4.3,
+                "coordinates": [47.4979, 19.0402]
+            },
+            {
+                "property_id": "d_xyz_034",
+                "title": "Pompeii View Resort",
+                "city_name": "Naples",
+                "country_code": "IT",
+                "room_rate": 215.0,
+                "rooms_left": 5,
+                "guest_rating": 4.3,
+                "coordinates": [40.8518, 14.2681]
+            },
+            {
+                "property_id": "d_xyz_035",
+                "title": "Red Light District Hotel",
+                "city_name": "Amsterdam",
+                "country_code": "NL",
+                "room_rate": 235.0,
+                "rooms_left": 7,
+                "guest_rating": 4.4,
+                "coordinates": [52.3676, 4.9041]
+            },
+            {
+                "property_id": "d_xyz_036",
+                "title": "Venice Beach Hotel",
+                "city_name": "Los Angeles",
+                "country_code": "US",
+                "room_rate": 255.0,
+                "rooms_left": 12,
+                "guest_rating": 4.4,
+                "coordinates": [34.0522, -118.2437]
+            },
+            {
+                "property_id": "d_xyz_037",
+                "title": "Everest View Lodge",
+                "city_name": "Kathmandu",
+                "country_code": "NP",
+                "room_rate": 125.0,
+                "rooms_left": 19,
+                "guest_rating": 4.0,
+                "coordinates": [27.7172, 85.324]
+            },
+            {
+                "property_id": "d_xyz_038",
+                "title": "Brera Design Hotel",
+                "city_name": "Milan",
+                "country_code": "IT",
+                "room_rate": 315.0,
+                "rooms_left": 6,
+                "guest_rating": 4.6,
+                "coordinates": [45.4642, 9.19]
+            },
+            {
+                "property_id": "d_xyz_039",
+                "title": "Senate Square Hotel",
+                "city_name": "Helsinki",
+                "country_code": "FI",
+                "room_rate": 245.0,
+                "rooms_left": 8,
+                "guest_rating": 4.5,
+                "coordinates": [60.1695, 24.9354]
+            },
+            {
+                "property_id": "d_xyz_040",
+                "title": "Carnival Resort",
+                "city_name": "Salvador",
+                "country_code": "BR",
+                "room_rate": 175.0,
+                "rooms_left": 18,
+                "guest_rating": 4.1,
+                "coordinates": [-12.9714, -38.5014]
+            },
+            {
+                "property_id": "d_xyz_041",
+                "title": "Basilique Hotel",
+                "city_name": "Lyon",
+                "country_code": "FR",
+                "room_rate": 275.0,
+                "rooms_left": 3,
+                "guest_rating": 4.6,
+                "coordinates": [45.764, 4.8357]
+            },
+            {
+                "property_id": "d_xyz_042",
+                "title": "Blarney Castle Hotel",
+                "city_name": "Cork",
+                "country_code": "IE",
+                "room_rate": 195.0,
+                "rooms_left": 14,
+                "guest_rating": 4.2,
+                "coordinates": [51.8985, -8.4756]
+            },
+            {
+                "property_id": "d_xyz_043",
+                "title": "Silk Road Palace",
+                "city_name": "Samarkand",
+                "country_code": "UZ",
+                "room_rate": 155.0,
+                "rooms_left": 15,
+                "guest_rating": 4.0,
+                "coordinates": [39.627, 66.9749]
+            },
+            {
+                "property_id": "d_xyz_044",
+                "title": "Northern Lights Lodge",
+                "city_name": "Tromsø",
+                "country_code": "NO",
+                "room_rate": 335.0,
+                "rooms_left": 2,
+                "guest_rating": 4.8,
+                "coordinates": [69.6492, 18.9553]
+            },
+            {
+                "property_id": "d_xyz_045",
+                "title": "Tea Garden Resort",
+                "city_name": "Darjeeling",
+                "country_code": "IN",
+                "room_rate": 115.0,
+                "rooms_left": 24,
+                "guest_rating": 3.8,
+                "coordinates": [27.036, 88.2627]
+            },
+            {
+                "property_id": "d_xyz_046",
+                "title": "Oktoberfest Hotel",
+                "city_name": "Munich",
+                "country_code": "DE",
+                "room_rate": 255.0,
+                "rooms_left": 6,
+                "guest_rating": 4.5,
+                "coordinates": [48.1351, 11.582]
+            },
+            {
+                "property_id": "d_xyz_047",
+                "title": "Outback Resort",
+                "city_name": "Alice Springs",
+                "country_code": "AU",
+                "room_rate": 185.0,
+                "rooms_left": 11,
+                "guest_rating": 4.1,
+                "coordinates": [-23.698, 133.8807]
+            },
+            {
+                "property_id": "d_xyz_048",
+                "title": "Grand Canal Hotel",
+                "city_name": "Venice",
+                "country_code": "IT",
+                "room_rate": 385.0,
+                "rooms_left": 1,
+                "guest_rating": 4.9,
+                "coordinates": [45.4408, 12.3155]
+            },
+            {
+                "property_id": "d_xyz_049",
+                "title": "Dotonbori Hotel",
+                "city_name": "Osaka",
+                "country_code": "JP",
+                "room_rate": 225.0,
+                "rooms_left": 10,
+                "guest_rating": 4.3,
+                "coordinates": [34.6937, 135.5023]
+            },
+            {
+                "property_id": "d_xyz_050",
+                "title": "Midnight Sun Resort",
+                "city_name": "Anchorage",
+                "country_code": "US",
+                "room_rate": 265.0,
+                "rooms_left": 4,
+                "guest_rating": 4.6,
+                "coordinates": [61.2181, -149.9003]
+            },
+            {
+                "property_id": "d_xyz_051",
+                "title": "Casablanca Palace",
+                "city_name": "Casablanca",
+                "country_code": "MA",
+                "room_rate": 165.0,
+                "rooms_left": 16,
+                "guest_rating": 4.0,
+                "coordinates": [33.5731, -7.5898]
+            },
+            {
+                "property_id": "d_xyz_052",
+                "title": "Colonial Quarter Hotel",
+                "city_name": "Cartagena",
+                "country_code": "CO",
+                "room_rate": 205.0,
+                "rooms_left": 7,
+                "guest_rating": 4.4,
+                "coordinates": [10.391, -75.4794]
+            },
+            {
+                "property_id": "d_xyz_053",
+                "title": "Freedom Monument Hotel",
+                "city_name": "Riga",
+                "country_code": "LV",
+                "room_rate": 175.0,
+                "rooms_left": 13,
+                "guest_rating": 4.2,
+                "coordinates": [56.9496, 24.1052]
+            },
+            {
+                "property_id": "d_xyz_054",
+                "title": "Machu Picchu Hotel",
+                "city_name": "Cusco",
+                "country_code": "PE",
+                "room_rate": 185.0,
+                "rooms_left": 8,
+                "guest_rating": 4.3,
+                "coordinates": [-13.5319, -71.9675]
+            },
+            {
+                "property_id": "d_xyz_055",
+                "title": "Wine Capital Hotel",
+                "city_name": "Bordeaux",
+                "country_code": "FR",
+                "room_rate": 235.0,
+                "rooms_left": 5,
+                "guest_rating": 4.5,
+                "coordinates": [44.8378, -0.5792]
+            }
+        ]
+    }
+}

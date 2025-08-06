@@ -1,0 +1,702 @@
+[
+    {
+        "id": "b_101",
+        "name": "Luxury Grand Hotel",
+        "location": "Paris, France",
+        "price": 240.0,
+        "available": 8,
+        "rating": 4.7,
+        "lat": 48.8566,
+        "long": 2.3522
+    },
+    {
+        "id": "b_102",
+        "name": "Seaside Resort & Spa",
+        "location": "Miami, USA",
+        "price": 195.0,
+        "available": 12,
+        "rating": 4.3,
+        "lat": 25.7617,
+        "long": -80.1918
+    },
+    {
+        "id": "b_103",
+        "name": "Alpine Retreat",
+        "location": "Aspen, USA",
+        "price": 350.0,
+        "available": 2,
+        "rating": 4.8,
+        "lat": 39.1911,
+        "long": -106.8175
+    },
+    {
+        "id": "b_104",
+        "name": "Downtown Business Hotel",
+        "location": "London, UK",
+        "price": 140.0,
+        "available": 20,
+        "rating": 3.8,
+        "lat": 51.5074,
+        "long": -0.1278
+    },
+    {
+        "id": "b_105",
+        "name": "Mediterranean Paradise",
+        "location": "Barcelona, Spain",
+        "price": 220.0,
+        "available": 4,
+        "rating": 4.5,
+        "lat": 41.3851,
+        "long": 2.1734
+    },
+    {
+        "id": "b_106",
+        "name": "Swiss Mountain Lodge",
+        "location": "Zurich, Switzerland",
+        "price": 395.0,
+        "available": 6,
+        "rating": 4.9,
+        "lat": 47.3769,
+        "long": 8.5417
+    },
+    {
+        "id": "b_107",
+        "name": "Desert Palace Resort",
+        "location": "Dubai, UAE",
+        "price": 465.0,
+        "available": 15,
+        "rating": 4.8,
+        "lat": 25.2048,
+        "long": 55.2708
+    },
+    {
+        "id": "b_108",
+        "name": "Royal Castle Hotel",
+        "location": "Edinburgh, UK",
+        "price": 185.0,
+        "available": 9,
+        "rating": 4.4,
+        "lat": 55.9533,
+        "long": -3.1883
+    },
+    {
+        "id": "b_109",
+        "name": "Waterfront Inn",
+        "location": "Vancouver, Canada",
+        "price": 175.0,
+        "available": 14,
+        "rating": 4.2,
+        "lat": 49.2827,
+        "long": -123.1207
+    },
+    {
+        "id": "b_110",
+        "name": "Tokyo Bay Hotel",
+        "location": "Tokyo, Japan",
+        "price": 290.0,
+        "available": 11,
+        "rating": 4.6,
+        "lat": 35.6762,
+        "long": 139.6503
+    },
+    {
+        "id": "b_111",
+        "name": "Pacific Shores Resort",
+        "location": "San Diego, USA",
+        "price": 185.0,
+        "available": 18,
+        "rating": 4.1,
+        "lat": 32.7157,
+        "long": -117.1611
+    },
+    {
+        "id": "b_112",
+        "name": "Marina Bay Suites",
+        "location": "Singapore",
+        "price": 235.0,
+        "available": 22,
+        "rating": 4.5,
+        "lat": 1.3521,
+        "long": 103.8198
+    },
+    {
+        "id": "b_113",
+        "name": "Imperial Palace Hotel",
+        "location": "Vienna, Austria",
+        "price": 305.0,
+        "available": 7,
+        "rating": 4.7,
+        "lat": 48.2082,
+        "long": 16.3738
+    },
+    {
+        "id": "b_114",
+        "name": "Tropical Paradise Resort",
+        "location": "Honolulu, USA",
+        "price": 355.0,
+        "available": 3,
+        "rating": 4.9,
+        "lat": 21.3099,
+        "long": -157.8581
+    },
+    {
+        "id": "b_115",
+        "name": "Scandinavian Elite Hotel",
+        "location": "Stockholm, Sweden",
+        "price": 195.0,
+        "available": 16,
+        "rating": 4.3,
+        "lat": 59.3293,
+        "long": 18.0686
+    },
+    {
+        "id": "b_116",
+        "name": "Historic Quarter Inn",
+        "location": "Prague, Czech Republic",
+        "price": 155.0,
+        "available": 13,
+        "rating": 4.2,
+        "lat": 50.0755,
+        "long": 14.4378
+    },
+    {
+        "id": "b_117",
+        "name": "Metropolitan Tower",
+        "location": "New York, USA",
+        "price": 435.0,
+        "available": 1,
+        "rating": 4.8,
+        "lat": 40.7128,
+        "long": -74.006
+    },
+    {
+        "id": "b_118",
+        "name": "Renaissance Villa",
+        "location": "Florence, Italy",
+        "price": 275.0,
+        "available": 5,
+        "rating": 4.6,
+        "lat": 43.7696,
+        "long": 11.2558
+    },
+    {
+        "id": "b_119",
+        "name": "Harbour Bridge Hotel",
+        "location": "Sydney, Australia",
+        "price": 205.0,
+        "available": 19,
+        "rating": 4.4,
+        "lat": -33.8688,
+        "long": 151.2093
+    },
+    {
+        "id": "b_120",
+        "name": "Nile View Palace",
+        "location": "Cairo, Egypt",
+        "price": 135.0,
+        "available": 24,
+        "rating": 3.9,
+        "lat": 30.0444,
+        "long": 31.2357
+    },
+    {
+        "id": "b_121",
+        "name": "Copacabana Beach Resort",
+        "location": "Rio de Janeiro, Brazil",
+        "price": 165.0,
+        "available": 10,
+        "rating": 4.1,
+        "lat": -22.9068,
+        "long": -43.1729
+    },
+    {
+        "id": "b_122",
+        "name": "Northern Lights Lodge",
+        "location": "Reykjavik, Iceland",
+        "price": 225.0,
+        "available": 8,
+        "rating": 4.5,
+        "lat": 64.1466,
+        "long": -21.9426
+    },
+    {
+        "id": "b_123",
+        "name": "Tango Elegance Hotel",
+        "location": "Buenos Aires, Argentina",
+        "price": 155.0,
+        "available": 17,
+        "rating": 4.3,
+        "lat": -34.6037,
+        "long": -58.3816
+    },
+    {
+        "id": "b_124",
+        "name": "Acacia Safari Lodge",
+        "location": "Nairobi, Kenya",
+        "price": 195.0,
+        "available": 12,
+        "rating": 4.2,
+        "lat": -1.2921,
+        "long": 36.8219
+    },
+    {
+        "id": "b_125",
+        "name": "Temple Garden Hotel",
+        "location": "Kyoto, Japan",
+        "price": 255.0,
+        "available": 6,
+        "rating": 4.7,
+        "lat": 35.0116,
+        "long": 135.7681
+    },
+    {
+        "id": "b_126",
+        "name": "Fjord Explorer Lodge",
+        "location": "Bergen, Norway",
+        "price": 235.0,
+        "available": 9,
+        "rating": 4.4,
+        "lat": 60.3913,
+        "long": 5.3221
+    },
+    {
+        "id": "b_127",
+        "name": "Ottoman Heritage Hotel",
+        "location": "Istanbul, Turkey",
+        "price": 145.0,
+        "available": 21,
+        "rating": 4.0,
+        "lat": 41.0082,
+        "long": 28.9784
+    },
+    {
+        "id": "b_128",
+        "name": "Celtic Manor Resort",
+        "location": "Dublin, Ireland",
+        "price": 195.0,
+        "available": 11,
+        "rating": 4.3,
+        "lat": 53.3498,
+        "long": -6.2603
+    },
+    {
+        "id": "b_129",
+        "name": "Atlas Mountain Resort",
+        "location": "Marrakech, Morocco",
+        "price": 175.0,
+        "available": 15,
+        "rating": 4.1,
+        "lat": 31.6295,
+        "long": -7.9811
+    },
+    {
+        "id": "b_130",
+        "name": "CN Tower Suites",
+        "location": "Toronto, Canada",
+        "price": 185.0,
+        "available": 20,
+        "rating": 4.2,
+        "lat": 43.6532,
+        "long": -79.3832
+    },
+    {
+        "id": "b_131",
+        "name": "Parthenon View Hotel",
+        "location": "Athens, Greece",
+        "price": 170.0,
+        "available": 13,
+        "rating": 4.1,
+        "lat": 37.9755,
+        "long": 23.7348
+    },
+    {
+        "id": "b_132",
+        "name": "Golden Buddha Resort",
+        "location": "Bangkok, Thailand",
+        "price": 105.0,
+        "available": 28,
+        "rating": 3.8,
+        "lat": 13.7563,
+        "long": 100.5018
+    },
+    {
+        "id": "b_133",
+        "name": "Danube Pearl Hotel",
+        "location": "Budapest, Hungary",
+        "price": 155.0,
+        "available": 14,
+        "rating": 4.3,
+        "lat": 47.4979,
+        "long": 19.0402
+    },
+    {
+        "id": "b_169",
+        "name": "Aztec Palace Hotel",
+        "location": "Mexico City, Mexico",
+        "price": 120.0,
+        "available": 16,
+        "rating": 3.9,
+        "lat": 19.4326,
+        "long": -99.1332
+    },
+    {
+        "id": "b_170",
+        "name": "Ha Long Bay Resort",
+        "location": "Halong Bay, Vietnam",
+        "price": 135.0,
+        "available": 18,
+        "rating": 4.1,
+        "lat": 20.9101,
+        "long": 107.1839
+    },
+    {
+        "id": "b_171",
+        "name": "Château Frontenac Hotel",
+        "location": "Quebec City, Canada",
+        "price": 175.0,
+        "available": 11,
+        "rating": 4.2,
+        "lat": 46.8139,
+        "long": -71.2082
+    },
+    {
+        "id": "b_172",
+        "name": "Alcázar Palace Hotel",
+        "location": "Seville, Spain",
+        "price": 195.0,
+        "available": 10,
+        "rating": 4.3,
+        "lat": 37.3891,
+        "long": -5.9845
+    },
+    {
+        "id": "b_173",
+        "name": "Carthage Heritage Hotel",
+        "location": "Tunis, Tunisia",
+        "price": 110.0,
+        "available": 25,
+        "rating": 3.8,
+        "lat": 36.8065,
+        "long": 10.1815
+    },
+    {
+        "id": "b_174",
+        "name": "Blue Lagoon Spa Resort",
+        "location": "Reykjavik, Iceland",
+        "price": 285.0,
+        "available": 7,
+        "rating": 4.7,
+        "lat": 64.1466,
+        "long": -21.9426
+    },
+    {
+        "id": "b_175",
+        "name": "Thunder Dragon Hotel",
+        "location": "Thimphu, Bhutan",
+        "price": 145.0,
+        "available": 13,
+        "rating": 4.1,
+        "lat": 27.4728,
+        "long": 89.639
+    },
+    {
+        "id": "b_176",
+        "name": "Equator Lodge",
+        "location": "Quito, Ecuador",
+        "price": 125.0,
+        "available": 15,
+        "rating": 4.0,
+        "lat": -0.1807,
+        "long": -78.4678
+    },
+    {
+        "id": "b_177",
+        "name": "Pacific Memorial Hotel",
+        "location": "Pearl City, USA",
+        "price": 205.0,
+        "available": 9,
+        "rating": 4.2,
+        "lat": 21.3972,
+        "long": -157.9736
+    },
+    {
+        "id": "b_178",
+        "name": "Bosphorus Palace Hotel",
+        "location": "Istanbul, Turkey",
+        "price": 165.0,
+        "available": 17,
+        "rating": 4.1,
+        "lat": 41.0082,
+        "long": 28.9784
+    },
+    {
+        "id": "b_179",
+        "name": "Neon Nights Resort",
+        "location": "Las Vegas, USA",
+        "price": 155.0,
+        "available": 24,
+        "rating": 3.9,
+        "lat": 36.1699,
+        "long": -115.1398
+    },
+    {
+        "id": "b_180",
+        "name": "Great Barrier Reef Resort",
+        "location": "Cairns, Australia",
+        "price": 215.0,
+        "available": 6,
+        "rating": 4.5,
+        "lat": -16.9186,
+        "long": 145.7781
+    },
+    {
+        "id": "b_181",
+        "name": "Loch Ness Lodge",
+        "location": "Inverness, UK",
+        "price": 185.0,
+        "available": 8,
+        "rating": 4.3,
+        "lat": 57.4778,
+        "long": -4.2247
+    },
+    {
+        "id": "b_182",
+        "name": "Amazon River Lodge",
+        "location": "Manaus, Brazil",
+        "price": 130.0,
+        "available": 14,
+        "rating": 4.0,
+        "lat": -3.119,
+        "long": -60.0217
+    },
+    {
+        "id": "b_183",
+        "name": "Peace Memorial Hotel",
+        "location": "Hiroshima, Japan",
+        "price": 180.0,
+        "available": 11,
+        "rating": 4.2,
+        "lat": 34.3853,
+        "long": 132.4553
+    },
+    {
+        "id": "b_184",
+        "name": "Aurora Resort",
+        "location": "Fairbanks, USA",
+        "price": 195.0,
+        "available": 5,
+        "rating": 4.4,
+        "lat": 64.8378,
+        "long": -147.7164
+    },
+    {
+        "id": "b_185",
+        "name": "River Plate Hotel",
+        "location": "Montevideo, Uruguay",
+        "price": 140.0,
+        "available": 16,
+        "rating": 3.9,
+        "lat": -34.9011,
+        "long": -56.1645
+    },
+    {
+        "id": "b_186",
+        "name": "Sonoran Desert Resort",
+        "location": "Phoenix, USA",
+        "price": 170.0,
+        "available": 19,
+        "rating": 4.1,
+        "lat": 33.4484,
+        "long": -112.074
+    },
+    {
+        "id": "b_187",
+        "name": "Santa's Village Lodge",
+        "location": "Rovaniemi, Finland",
+        "price": 335.0,
+        "available": 3,
+        "rating": 4.8,
+        "lat": 66.5039,
+        "long": 25.7294
+    },
+    {
+        "id": "b_188",
+        "name": "Stone Town Heritage Hotel",
+        "location": "Zanzibar, Tanzania",
+        "price": 150.0,
+        "available": 12,
+        "rating": 4.2,
+        "lat": -6.1659,
+        "long": 39.2026
+    },
+    {
+        "id": "b_189",
+        "name": "Andes Wine Lodge",
+        "location": "Mendoza, Argentina",
+        "price": 135.0,
+        "available": 14,
+        "rating": 4.0,
+        "lat": -32.8895,
+        "long": -68.8458
+    },
+    {
+        "id": "b_190",
+        "name": "Rocky Mountain Hotel",
+        "location": "Calgary, Canada",
+        "price": 160.0,
+        "available": 18,
+        "rating": 4.1,
+        "lat": 51.0447,
+        "long": -114.0719
+    },
+    {
+        "id": "b_191",
+        "name": "Geothermal Springs Resort",
+        "location": "Rotorua, New Zealand",
+        "price": 175.0,
+        "available": 10,
+        "rating": 4.3,
+        "lat": -38.1368,
+        "long": 176.2497
+    },
+    {
+        "id": "b_192",
+        "name": "Sierra Madre Lodge",
+        "location": "Chihuahua, Mexico",
+        "price": 105.0,
+        "available": 20,
+        "rating": 3.8,
+        "lat": 28.6353,
+        "long": -106.0889
+    },
+    {
+        "id": "b_193",
+        "name": "Ubud Jungle Resort",
+        "location": "Bali, Indonesia",
+        "price": 120.0,
+        "available": 17,
+        "rating": 3.9,
+        "lat": -8.3405,
+        "long": 115.092
+    },
+    {
+        "id": "b_194",
+        "name": "Klondike Gold Lodge",
+        "location": "Whitehorse, Canada",
+        "price": 145.0,
+        "available": 8,
+        "rating": 4.1,
+        "lat": 60.7212,
+        "long": -135.0568
+    },
+    {
+        "id": "b_195",
+        "name": "Riviera Palace Hotel",
+        "location": "Nice, France",
+        "price": 235.0,
+        "available": 6,
+        "rating": 4.5,
+        "lat": 43.7102,
+        "long": 7.262
+    },
+    {
+        "id": "b_196",
+        "name": "Kruger Safari Lodge",
+        "location": "Johannesburg, South Africa",
+        "price": 125.0,
+        "available": 15,
+        "rating": 4.0,
+        "lat": -26.2041,
+        "long": 28.0473
+    },
+    {
+        "id": "b_197",
+        "name": "Archipelago Resort",
+        "location": "Manila, Philippines",
+        "price": 100.0,
+        "available": 23,
+        "rating": 3.7,
+        "lat": 14.5995,
+        "long": 120.9842
+    },
+    {
+        "id": "b_198",
+        "name": "Hanseatic League Hotel",
+        "location": "Vilnius, Lithuania",
+        "price": 115.0,
+        "available": 16,
+        "rating": 3.9,
+        "lat": 54.6872,
+        "long": 25.2797
+    },
+    {
+        "id": "b_199",
+        "name": "Paradise Island Resort",
+        "location": "Seychelles",
+        "price": 475.0,
+        "available": 2,
+        "rating": 4.9,
+        "lat": -4.6796,
+        "long": 55.492
+    },
+    {
+        "id": "b_200",
+        "name": "Danube Bridge Hotel",
+        "location": "Belgrade, Serbia",
+        "price": 95.0,
+        "available": 22,
+        "rating": 3.7,
+        "lat": 44.7866,
+        "long": 20.4489
+    },
+    {
+        "id": "b_201",
+        "name": "Holy Land Heritage Hotel",
+        "location": "Jerusalem, Israel",
+        "price": 205.0,
+        "available": 9,
+        "rating": 4.3,
+        "lat": 31.7683,
+        "long": 35.2137
+    },
+    {
+        "id": "b_202",
+        "name": "Andaman Sea Resort",
+        "location": "Phuket, Thailand",
+        "price": 185.0,
+        "available": 10,
+        "rating": 4.4,
+        "lat": 7.8804,
+        "long": 98.3923
+    },
+    {
+        "id": "b_203",
+        "name": "Medieval Charm Hotel",
+        "location": "Bruges, Belgium",
+        "price": 175.0,
+        "available": 7,
+        "rating": 4.2,
+        "lat": 51.2093,
+        "long": 3.2247
+    },
+    {
+        "id": "b_204",
+        "name": "Mile High Hotel",
+        "location": "Denver, USA",
+        "price": 190.0,
+        "available": 13,
+        "rating": 4.1,
+        "lat": 39.7392,
+        "long": -104.9903
+    },
+    {
+        "id": "b_205",
+        "name": "Baltic Pearl Hotel",
+        "location": "Tallinn, Estonia",
+        "price": 130.0,
+        "available": 14,
+        "rating": 4.0,
+        "lat": 59.437,
+        "long": 24.7536
+    }
+]

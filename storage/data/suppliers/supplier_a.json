@@ -1,0 +1,1286 @@
+[
+    {
+        "hotel_id": "a_001",
+        "hotel_name": "Grand Palace Hotel",
+        "city": "Paris",
+        "country": "France",
+        "nightly_rate": 250.0,
+        "rooms_available": 12,
+        "star_rating": 4.8,
+        "coordinates": {}
+    },
+    {
+        "hotel_id": "a_002",
+        "hotel_name": "Royal Palace Hotel",
+        "city": "Paris",
+        "country": "France",
+        "nightly_rate": 210.0,
+        "rooms_available": 8,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": 25.7617,
+            "lng": -80.1918
+        }
+    },
+    {
+        "hotel_id": "a_003",
+        "hotel_name": "Mountain Lodge",
+        "city": "Aspen",
+        "country": "USA",
+        "nightly_rate": 320.0,
+        "rooms_available": 3,
+        "star_rating": 4.6,
+        "coordinates": {
+            "lat": 39.1911,
+            "lng": -106.8175
+        }
+    },
+    {
+        "hotel_id": "a_004",
+        "hotel_name": "City Center Inn",
+        "city": "London",
+        "country": "UK",
+        "nightly_rate": 150.0,
+        "rooms_available": 15,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": 51.5074,
+            "lng": -0.1278
+        }
+    },
+    {
+        "hotel_id": "a_005",
+        "hotel_name": "Beachfront Villa",
+        "city": "Barcelona",
+        "country": "Spain",
+        "nightly_rate": 200.0,
+        "rooms_available": 6,
+        "star_rating": 4.4,
+        "coordinates": {
+            "lat": 41.3851,
+            "lng": 2.1734
+        }
+    },
+    {
+        "hotel_id": "a_006",
+        "hotel_name": "Alpine Retreat",
+        "city": "Zurich",
+        "country": "Switzerland",
+        "nightly_rate": 380.0,
+        "rooms_available": 9,
+        "star_rating": 4.7,
+        "coordinates": {
+            "lat": 47.3769,
+            "lng": 8.5417
+        }
+    },
+    {
+        "hotel_id": "a_007",
+        "hotel_name": "Desert Oasis Resort",
+        "city": "Dubai",
+        "country": "UAE",
+        "nightly_rate": 450.0,
+        "rooms_available": 22,
+        "star_rating": 4.9,
+        "coordinates": {
+            "lat": 25.2048,
+            "lng": 55.2708
+        }
+    },
+    {
+        "hotel_id": "a_008",
+        "hotel_name": "Historic Manor",
+        "city": "Edinburgh",
+        "country": "UK",
+        "nightly_rate": 195.0,
+        "rooms_available": 7,
+        "star_rating": 4.3,
+        "coordinates": {
+            "lat": 55.9533,
+            "lng": -3.1883
+        }
+    },
+    {
+        "hotel_id": "a_009",
+        "hotel_name": "Lakeside Lodge",
+        "city": "Vancouver",
+        "country": "Canada",
+        "nightly_rate": 165.0,
+        "rooms_available": 11,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": 49.2827,
+            "lng": -123.1207
+        }
+    },
+    {
+        "hotel_id": "a_010",
+        "hotel_name": "Metropolitan Suite",
+        "city": "Tokyo",
+        "country": "Japan",
+        "nightly_rate": 280.0,
+        "rooms_available": 18,
+        "star_rating": 4.5,
+        "coordinates": {
+            "lat": 35.6762,
+            "lng": 139.6503
+        }
+    },
+    {
+        "hotel_id": "a_011",
+        "hotel_name": "Coastal Inn",
+        "city": "San Diego",
+        "country": "USA",
+        "nightly_rate": 175.0,
+        "rooms_available": 14,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 32.7157,
+            "lng": -117.1611
+        }
+    },
+    {
+        "hotel_id": "a_012",
+        "hotel_name": "Garden Plaza Hotel",
+        "city": "Singapore",
+        "country": "Singapore",
+        "nightly_rate": 220.0,
+        "rooms_available": 25,
+        "star_rating": 4.4,
+        "coordinates": {
+            "lat": 1.3521,
+            "lng": 103.8198
+        }
+    },
+    {
+        "hotel_id": "a_013",
+        "hotel_name": "Royal Heritage",
+        "city": "Vienna",
+        "country": "Austria",
+        "nightly_rate": 295.0,
+        "rooms_available": 8,
+        "star_rating": 4.6,
+        "coordinates": {
+            "lat": 48.2082,
+            "lng": 16.3738
+        }
+    },
+    {
+        "hotel_id": "a_014",
+        "hotel_name": "Sunset Beach Resort",
+        "city": "Honolulu",
+        "country": "USA",
+        "nightly_rate": 340.0,
+        "rooms_available": 5,
+        "star_rating": 4.8,
+        "coordinates": {
+            "lat": 21.3099,
+            "lng": -157.8581
+        }
+    },
+    {
+        "hotel_id": "a_021",
+        "hotel_name": "Carnival Palace",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "nightly_rate": 155.0,
+        "rooms_available": 12,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": -22.9068,
+            "lng": -43.1729
+        }
+    },
+    {
+        "hotel_id": "a_022",
+        "hotel_name": "Arctic Aurora Lodge",
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "nightly_rate": 210.0,
+        "rooms_available": 8,
+        "star_rating": 4.4,
+        "coordinates": {
+            "lat": 64.1466,
+            "lng": -21.9426
+        }
+    },
+    {
+        "hotel_id": "a_023",
+        "hotel_name": "Tango Boutique Hotel",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "nightly_rate": 145.0,
+        "rooms_available": 15,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": -34.6037,
+            "lng": -58.3816
+        }
+    },
+    {
+        "hotel_id": "a_024",
+        "hotel_name": "Safari Lodge",
+        "city": "Nairobi",
+        "country": "Kenya",
+        "nightly_rate": 180.0,
+        "rooms_available": 9,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": -1.2921,
+            "lng": 36.8219
+        }
+    },
+    {
+        "hotel_id": "a_025",
+        "hotel_name": "Zen Garden Hotel",
+        "city": "Kyoto",
+        "country": "Japan",
+        "nightly_rate": 240.0,
+        "rooms_available": 7,
+        "star_rating": 4.6,
+        "coordinates": {
+            "lat": 35.0116,
+            "lng": 135.7681
+        }
+    },
+    {
+        "hotel_id": "a_026",
+        "hotel_name": "Fjord View Lodge",
+        "city": "Bergen",
+        "country": "Norway",
+        "nightly_rate": 225.0,
+        "rooms_available": 11,
+        "star_rating": 4.3,
+        "coordinates": {
+            "lat": 60.3913,
+            "lng": 5.3221
+        }
+    },
+    {
+        "hotel_id": "a_027",
+        "hotel_name": "Spice Market Inn",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "nightly_rate": 135.0,
+        "rooms_available": 17,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": 41.0082,
+            "lng": 28.9784
+        }
+    },
+    {
+        "hotel_id": "a_028",
+        "hotel_name": "Castle Rock Resort",
+        "city": "Dublin",
+        "country": "Ireland",
+        "nightly_rate": 185.0,
+        "rooms_available": 13,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": 53.3498,
+            "lng": -6.2603
+        }
+    },
+    {
+        "hotel_id": "a_029",
+        "hotel_name": "Sahara Sunset Hotel",
+        "city": "Marrakech",
+        "country": "Morocco",
+        "nightly_rate": 165.0,
+        "rooms_available": 19,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 31.6295,
+            "lng": -7.9811
+        }
+    },
+    {
+        "hotel_id": "a_030",
+        "hotel_name": "Maple Leaf Inn",
+        "city": "Toronto",
+        "country": "Canada",
+        "nightly_rate": 170.0,
+        "rooms_available": 21,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": 43.6532,
+            "lng": -79.3832
+        }
+    },
+    {
+        "hotel_id": "a_031",
+        "hotel_name": "Acropolis View Hotel",
+        "city": "Athens",
+        "country": "Greece",
+        "nightly_rate": 160.0,
+        "rooms_available": 14,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 37.9755,
+            "lng": 23.7348
+        }
+    },
+    {
+        "hotel_id": "a_032",
+        "hotel_name": "Golden Temple Lodge",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "nightly_rate": 95.0,
+        "rooms_available": 26,
+        "star_rating": 3.7,
+        "coordinates": {
+            "lat": 13.7563,
+            "lng": 100.5018
+        }
+    },
+    {
+        "hotel_id": "a_033",
+        "hotel_name": "Royal Danube Hotel",
+        "city": "Budapest",
+        "country": "Hungary",
+        "nightly_rate": 145.0,
+        "rooms_available": 16,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": 47.4979,
+            "lng": 19.0402
+        }
+    },
+    {
+        "hotel_id": "a_034",
+        "hotel_name": "Volcano View Resort",
+        "city": "Naples",
+        "country": "Italy",
+        "nightly_rate": 175.0,
+        "rooms_available": 8,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": 40.8518,
+            "lng": 14.2681
+        }
+    },
+    {
+        "hotel_id": "a_035",
+        "hotel_name": "Windmill Country Inn",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "nightly_rate": 190.0,
+        "rooms_available": 12,
+        "star_rating": 4.3,
+        "coordinates": {
+            "lat": 52.3676,
+            "lng": 4.9041
+        }
+    },
+    {
+        "hotel_id": "a_036",
+        "hotel_name": "Pacific Breeze Hotel",
+        "city": "Los Angeles",
+        "country": "USA",
+        "nightly_rate": 195.0,
+        "rooms_available": 18,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": 34.0522,
+            "lng": -118.2437
+        }
+    },
+    {
+        "hotel_id": "a_037",
+        "hotel_name": "Himalayan Heights Lodge",
+        "city": "Kathmandu",
+        "country": "Nepal",
+        "nightly_rate": 85.0,
+        "rooms_available": 23,
+        "star_rating": 3.8,
+        "coordinates": {
+            "lat": 27.7172,
+            "lng": 85.324
+        }
+    },
+    {
+        "hotel_id": "a_038",
+        "hotel_name": "Opera House Hotel",
+        "city": "Milan",
+        "country": "Italy",
+        "nightly_rate": 275.0,
+        "rooms_available": 9,
+        "star_rating": 4.5,
+        "coordinates": {
+            "lat": 45.4642,
+            "lng": 9.19
+        }
+    },
+    {
+        "hotel_id": "a_039",
+        "hotel_name": "Midnight Sun Lodge",
+        "city": "Helsinki",
+        "country": "Finland",
+        "nightly_rate": 205.0,
+        "rooms_available": 10,
+        "star_rating": 4.3,
+        "coordinates": {
+            "lat": 60.1695,
+            "lng": 24.9354
+        }
+    },
+    {
+        "hotel_id": "a_040",
+        "hotel_name": "Carnival Beach Resort",
+        "city": "Salvador",
+        "country": "Brazil",
+        "nightly_rate": 130.0,
+        "rooms_available": 24,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": -12.9714,
+            "lng": -38.5014
+        }
+    },
+    {
+        "hotel_id": "a_041",
+        "hotel_name": "Château Grandeur",
+        "city": "Lyon",
+        "country": "France",
+        "nightly_rate": 230.0,
+        "rooms_available": 6,
+        "star_rating": 4.4,
+        "coordinates": {
+            "lat": 45.764,
+            "lng": 4.8357
+        }
+    },
+    {
+        "hotel_id": "a_042",
+        "hotel_name": "Emerald Isle Inn",
+        "city": "Cork",
+        "country": "Ireland",
+        "nightly_rate": 155.0,
+        "rooms_available": 15,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 51.8985,
+            "lng": -8.4756
+        }
+    },
+    {
+        "hotel_id": "a_043",
+        "hotel_name": "Silk Road Hotel",
+        "city": "Samarkand",
+        "country": "Uzbekistan",
+        "nightly_rate": 110.0,
+        "rooms_available": 20,
+        "star_rating": 3.8,
+        "coordinates": {
+            "lat": 39.627,
+            "lng": 66.9749
+        }
+    },
+    {
+        "hotel_id": "a_044",
+        "hotel_name": "Aurora Borealis Lodge",
+        "city": "Tromsø",
+        "country": "Norway",
+        "nightly_rate": 280.0,
+        "rooms_available": 5,
+        "star_rating": 4.6,
+        "coordinates": {
+            "lat": 69.6492,
+            "lng": 18.9553
+        }
+    },
+    {
+        "hotel_id": "a_045",
+        "hotel_name": "Tea Plantation Resort",
+        "city": "Darjeeling",
+        "country": "India",
+        "nightly_rate": 75.0,
+        "rooms_available": 28,
+        "star_rating": 3.6,
+        "coordinates": {
+            "lat": 27.036,
+            "lng": 88.2627
+        }
+    },
+    {
+        "hotel_id": "a_046",
+        "hotel_name": "Black Forest Lodge",
+        "city": "Munich",
+        "country": "Germany",
+        "nightly_rate": 215.0,
+        "rooms_available": 11,
+        "star_rating": 4.3,
+        "coordinates": {
+            "lat": 48.1351,
+            "lng": 11.582
+        }
+    },
+    {
+        "hotel_id": "a_047",
+        "hotel_name": "Outback Adventure Hotel",
+        "city": "Alice Springs",
+        "country": "Australia",
+        "nightly_rate": 145.0,
+        "rooms_available": 17,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": -23.698,
+            "lng": 133.8807
+        }
+    },
+    {
+        "hotel_id": "a_048",
+        "hotel_name": "Venetian Canal Hotel",
+        "city": "Venice",
+        "country": "Italy",
+        "nightly_rate": 320.0,
+        "rooms_available": 4,
+        "star_rating": 4.7,
+        "coordinates": {
+            "lat": 45.4408,
+            "lng": 12.3155
+        }
+    },
+    {
+        "hotel_id": "a_049",
+        "hotel_name": "Cherry Blossom Inn",
+        "city": "Osaka",
+        "country": "Japan",
+        "nightly_rate": 185.0,
+        "rooms_available": 14,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": 34.6937,
+            "lng": 135.5023
+        }
+    },
+    {
+        "hotel_id": "a_050",
+        "hotel_name": "Glacier Bay Resort",
+        "city": "Anchorage",
+        "country": "USA",
+        "nightly_rate": 220.0,
+        "rooms_available": 8,
+        "star_rating": 4.4,
+        "coordinates": {
+            "lat": 61.2181,
+            "lng": -149.9003
+        }
+    },
+    {
+        "hotel_id": "a_051",
+        "hotel_name": "Riad Atlas",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "nightly_rate": 120.0,
+        "rooms_available": 22,
+        "star_rating": 3.8,
+        "coordinates": {
+            "lat": 33.5731,
+            "lng": -7.5898
+        }
+    },
+    {
+        "hotel_id": "a_052",
+        "hotel_name": "Colonial Heritage Hotel",
+        "city": "Cartagena",
+        "country": "Colombia",
+        "nightly_rate": 165.0,
+        "rooms_available": 13,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": 10.391,
+            "lng": -75.4794
+        }
+    },
+    {
+        "hotel_id": "a_053",
+        "hotel_name": "Baltic Sea Lodge",
+        "city": "Riga",
+        "country": "Latvia",
+        "nightly_rate": 135.0,
+        "rooms_available": 16,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 56.9496,
+            "lng": 24.1052
+        }
+    },
+    {
+        "hotel_id": "a_054",
+        "hotel_name": "Machu Picchu View Hotel",
+        "city": "Cusco",
+        "country": "Peru",
+        "nightly_rate": 140.0,
+        "rooms_available": 12,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": -13.5319,
+            "lng": -71.9675
+        }
+    },
+    {
+        "hotel_id": "a_055",
+        "hotel_name": "Wine Country Inn",
+        "city": "Bordeaux",
+        "country": "France",
+        "nightly_rate": 195.0,
+        "rooms_available": 9,
+        "star_rating": 4.3,
+        "coordinates": {
+            "lat": 44.8378,
+            "lng": -0.5792
+        }
+    },
+    {
+        "hotel_id": "a_056",
+        "hotel_name": "Midnight Express Hotel",
+        "city": "St. Petersburg",
+        "country": "Russia",
+        "nightly_rate": 115.0,
+        "rooms_available": 25,
+        "star_rating": 3.7,
+        "coordinates": {
+            "lat": 59.9311,
+            "lng": 30.3609
+        }
+    },
+    {
+        "hotel_id": "a_057",
+        "hotel_name": "Aloha Paradise Resort",
+        "city": "Maui",
+        "country": "USA",
+        "nightly_rate": 385.0,
+        "rooms_available": 6,
+        "star_rating": 4.8,
+        "coordinates": {
+            "lat": 20.7984,
+            "lng": -156.3319
+        }
+    },
+    {
+        "hotel_id": "a_058",
+        "hotel_name": "Tundra Lodge",
+        "city": "Yellowknife",
+        "country": "Canada",
+        "nightly_rate": 175.0,
+        "rooms_available": 7,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 62.454,
+            "lng": -114.3718
+        }
+    },
+    {
+        "hotel_id": "a_059",
+        "hotel_name": "Bohemian Quarter Hotel",
+        "city": "Warsaw",
+        "country": "Poland",
+        "nightly_rate": 125.0,
+        "rooms_available": 19,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": 52.2297,
+            "lng": 21.0122
+        }
+    },
+    {
+        "hotel_id": "a_060",
+        "hotel_name": "Temple View Inn",
+        "city": "Angkor",
+        "country": "Cambodia",
+        "nightly_rate": 85.0,
+        "rooms_available": 24,
+        "star_rating": 3.6,
+        "coordinates": {
+            "lat": 13.4125,
+            "lng": 103.867
+        }
+    },
+    {
+        "hotel_id": "a_061",
+        "hotel_name": "Glass House Hotel",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "nightly_rate": 245.0,
+        "rooms_available": 10,
+        "star_rating": 4.5,
+        "coordinates": {
+            "lat": 55.6761,
+            "lng": 12.5683
+        }
+    },
+    {
+        "hotel_id": "a_062",
+        "hotel_name": "Patagonia Wind Lodge",
+        "city": "Ushuaia",
+        "country": "Argentina",
+        "nightly_rate": 190.0,
+        "rooms_available": 8,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": -54.8019,
+            "lng": -68.303
+        }
+    },
+    {
+        "hotel_id": "a_063",
+        "hotel_name": "Roman Forum Hotel",
+        "city": "Rome",
+        "country": "Italy",
+        "nightly_rate": 295.0,
+        "rooms_available": 5,
+        "star_rating": 4.6,
+        "coordinates": {
+            "lat": 41.9028,
+            "lng": 12.4964
+        }
+    },
+    {
+        "hotel_id": "a_064",
+        "hotel_name": "Monsoon Palace",
+        "city": "Mumbai",
+        "country": "India",
+        "nightly_rate": 105.0,
+        "rooms_available": 27,
+        "star_rating": 3.8,
+        "coordinates": {
+            "lat": 19.076,
+            "lng": 72.8777
+        }
+    },
+    {
+        "hotel_id": "a_065",
+        "hotel_name": "Alpine Snow Lodge",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "nightly_rate": 210.0,
+        "rooms_available": 11,
+        "star_rating": 4.3,
+        "coordinates": {
+            "lat": 47.2692,
+            "lng": 11.4041
+        }
+    },
+    {
+        "hotel_id": "a_066",
+        "hotel_name": "Pharaoh's Rest",
+        "city": "Luxor",
+        "country": "Egypt",
+        "nightly_rate": 95.0,
+        "rooms_available": 21,
+        "star_rating": 3.7,
+        "coordinates": {
+            "lat": 25.6872,
+            "lng": 32.6396
+        }
+    },
+    {
+        "hotel_id": "a_067",
+        "hotel_name": "Outback Springs Resort",
+        "city": "Perth",
+        "country": "Australia",
+        "nightly_rate": 155.0,
+        "rooms_available": 15,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": -31.9505,
+            "lng": 115.8605
+        }
+    },
+    {
+        "hotel_id": "a_068",
+        "hotel_name": "Golden Gate Lodge",
+        "city": "San Francisco",
+        "country": "USA",
+        "nightly_rate": 285.0,
+        "rooms_available": 7,
+        "star_rating": 4.5,
+        "coordinates": {
+            "lat": 37.7749,
+            "lng": -122.4194
+        }
+    },
+    {
+        "hotel_id": "a_069",
+        "hotel_name": "Tequila Sunrise Inn",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "nightly_rate": 110.0,
+        "rooms_available": 18,
+        "star_rating": 3.8,
+        "coordinates": {
+            "lat": 19.4326,
+            "lng": -99.1332
+        }
+    },
+    {
+        "hotel_id": "a_070",
+        "hotel_name": "Dragon Bay Resort",
+        "city": "Halong Bay",
+        "country": "Vietnam",
+        "nightly_rate": 125.0,
+        "rooms_available": 16,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 20.9101,
+            "lng": 107.1839
+        }
+    },
+    {
+        "hotel_id": "a_071",
+        "hotel_name": "Maple Sugar Lodge",
+        "city": "Quebec City",
+        "country": "Canada",
+        "nightly_rate": 165.0,
+        "rooms_available": 12,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": 46.8139,
+            "lng": -71.2082
+        }
+    },
+    {
+        "hotel_id": "a_072",
+        "hotel_name": "Flamenco Dreams Hotel",
+        "city": "Seville",
+        "country": "Spain",
+        "nightly_rate": 180.0,
+        "rooms_available": 13,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": 37.3891,
+            "lng": -5.9845
+        }
+    },
+    {
+        "hotel_id": "a_073",
+        "hotel_name": "Sahara Mirage",
+        "city": "Tunis",
+        "country": "Tunisia",
+        "nightly_rate": 100.0,
+        "rooms_available": 23,
+        "star_rating": 3.7,
+        "coordinates": {
+            "lat": 36.8065,
+            "lng": 10.1815
+        }
+    },
+    {
+        "hotel_id": "a_074",
+        "hotel_name": "Blue Lagoon Resort",
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "nightly_rate": 275.0,
+        "rooms_available": 9,
+        "star_rating": 4.6,
+        "coordinates": {
+            "lat": 64.1466,
+            "lng": -21.9426
+        }
+    },
+    {
+        "hotel_id": "a_075",
+        "hotel_name": "Himalayan Echo Lodge",
+        "city": "Thimphu",
+        "country": "Bhutan",
+        "nightly_rate": 135.0,
+        "rooms_available": 14,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 27.4728,
+            "lng": 89.639
+        }
+    },
+    {
+        "hotel_id": "a_076",
+        "hotel_name": "Volcano Crater Hotel",
+        "city": "Quito",
+        "country": "Ecuador",
+        "nightly_rate": 115.0,
+        "rooms_available": 17,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": -0.1807,
+            "lng": -78.4678
+        }
+    },
+    {
+        "hotel_id": "a_077",
+        "hotel_name": "Pearl Harbor Inn",
+        "city": "Pearl City",
+        "country": "USA",
+        "nightly_rate": 195.0,
+        "rooms_available": 11,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": 21.3972,
+            "lng": -157.9736
+        }
+    },
+    {
+        "hotel_id": "a_078",
+        "hotel_name": "Bosphorus Breeze Hotel",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "nightly_rate": 155.0,
+        "rooms_available": 19,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 41.0082,
+            "lng": 28.9784
+        }
+    },
+    {
+        "hotel_id": "a_079",
+        "hotel_name": "Midnight Desert Lodge",
+        "city": "Las Vegas",
+        "country": "USA",
+        "nightly_rate": 145.0,
+        "rooms_available": 26,
+        "star_rating": 3.8,
+        "coordinates": {
+            "lat": 36.1699,
+            "lng": -115.1398
+        }
+    },
+    {
+        "hotel_id": "a_080",
+        "hotel_name": "Coral Reef Resort",
+        "city": "Cairns",
+        "country": "Australia",
+        "nightly_rate": 205.0,
+        "rooms_available": 8,
+        "star_rating": 4.4,
+        "coordinates": {
+            "lat": -16.9186,
+            "lng": 145.7781
+        }
+    },
+    {
+        "hotel_id": "a_081",
+        "hotel_name": "Highland Castle Hotel",
+        "city": "Inverness",
+        "country": "UK",
+        "nightly_rate": 175.0,
+        "rooms_available": 10,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": 57.4778,
+            "lng": -4.2247
+        }
+    },
+    {
+        "hotel_id": "a_082",
+        "hotel_name": "Amazon Rainforest Lodge",
+        "city": "Manaus",
+        "country": "Brazil",
+        "nightly_rate": 120.0,
+        "rooms_available": 15,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": -3.119,
+            "lng": -60.0217
+        }
+    },
+    {
+        "hotel_id": "a_083",
+        "hotel_name": "Geisha Garden Inn",
+        "city": "Hiroshima",
+        "country": "Japan",
+        "nightly_rate": 170.0,
+        "rooms_available": 12,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": 34.3853,
+            "lng": 132.4553
+        }
+    },
+    {
+        "hotel_id": "a_084",
+        "hotel_name": "Northern Lights Resort",
+        "city": "Fairbanks",
+        "country": "USA",
+        "nightly_rate": 185.0,
+        "rooms_available": 6,
+        "star_rating": 4.3,
+        "coordinates": {
+            "lat": 64.8378,
+            "lng": -147.7164
+        }
+    },
+    {
+        "hotel_id": "a_085",
+        "hotel_name": "Tango Palace Hotel",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "nightly_rate": 130.0,
+        "rooms_available": 18,
+        "star_rating": 3.8,
+        "coordinates": {
+            "lat": -34.9011,
+            "lng": -56.1645
+        }
+    },
+    {
+        "hotel_id": "a_086",
+        "hotel_name": "Desert Rose Inn",
+        "city": "Phoenix",
+        "country": "USA",
+        "nightly_rate": 160.0,
+        "rooms_available": 21,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 33.4484,
+            "lng": -112.074
+        }
+    },
+    {
+        "hotel_id": "a_087",
+        "hotel_name": "Ice Hotel Lapland",
+        "city": "Rovaniemi",
+        "country": "Finland",
+        "nightly_rate": 320.0,
+        "rooms_available": 4,
+        "star_rating": 4.7,
+        "coordinates": {
+            "lat": 66.5039,
+            "lng": 25.7294
+        }
+    },
+    {
+        "hotel_id": "a_088",
+        "hotel_name": "Spice Island Resort",
+        "city": "Zanzibar",
+        "country": "Tanzania",
+        "nightly_rate": 140.0,
+        "rooms_available": 14,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": -6.1659,
+            "lng": 39.2026
+        }
+    },
+    {
+        "hotel_id": "a_089",
+        "hotel_name": "Gaucho Ranch Hotel",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "nightly_rate": 125.0,
+        "rooms_available": 16,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": -32.8895,
+            "lng": -68.8458
+        }
+    },
+    {
+        "hotel_id": "a_090",
+        "hotel_name": "Midnight Oil Lodge",
+        "city": "Calgary",
+        "country": "Canada",
+        "nightly_rate": 150.0,
+        "rooms_available": 20,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 51.0447,
+            "lng": -114.0719
+        }
+    },
+    {
+        "hotel_id": "a_091",
+        "hotel_name": "Thermal Springs Hotel",
+        "city": "Rotorua",
+        "country": "New Zealand",
+        "nightly_rate": 165.0,
+        "rooms_available": 13,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": -38.1368,
+            "lng": 176.2497
+        }
+    },
+    {
+        "hotel_id": "a_092",
+        "hotel_name": "Copper Canyon Lodge",
+        "city": "Chihuahua",
+        "country": "Mexico",
+        "nightly_rate": 95.0,
+        "rooms_available": 22,
+        "star_rating": 3.7,
+        "coordinates": {
+            "lat": 28.6353,
+            "lng": -106.0889
+        }
+    },
+    {
+        "hotel_id": "a_093",
+        "hotel_name": "Volcanic Ash Resort",
+        "city": "Bali",
+        "country": "Indonesia",
+        "nightly_rate": 110.0,
+        "rooms_available": 19,
+        "star_rating": 3.8,
+        "coordinates": {
+            "lat": -8.3405,
+            "lng": 115.092
+        }
+    },
+    {
+        "hotel_id": "a_094",
+        "hotel_name": "Tundra Wilderness Lodge",
+        "city": "Whitehorse",
+        "country": "Canada",
+        "nightly_rate": 135.0,
+        "rooms_available": 9,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 60.7212,
+            "lng": -135.0568
+        }
+    },
+    {
+        "hotel_id": "a_095",
+        "hotel_name": "Mediterranean Breeze Hotel",
+        "city": "Nice",
+        "country": "France",
+        "nightly_rate": 225.0,
+        "rooms_available": 7,
+        "star_rating": 4.4,
+        "coordinates": {
+            "lat": 43.7102,
+            "lng": 7.262
+        }
+    },
+    {
+        "hotel_id": "a_096",
+        "hotel_name": "Savannah Safari Lodge",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "nightly_rate": 115.0,
+        "rooms_available": 17,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": -26.2041,
+            "lng": 28.0473
+        }
+    },
+    {
+        "hotel_id": "a_097",
+        "hotel_name": "Pearl of the Orient",
+        "city": "Manila",
+        "country": "Philippines",
+        "nightly_rate": 90.0,
+        "rooms_available": 25,
+        "star_rating": 3.6,
+        "coordinates": {
+            "lat": 14.5995,
+            "lng": 120.9842
+        }
+    },
+    {
+        "hotel_id": "a_098",
+        "hotel_name": "Baltic Amber Hotel",
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "nightly_rate": 105.0,
+        "rooms_available": 18,
+        "star_rating": 3.8,
+        "coordinates": {
+            "lat": 54.6872,
+            "lng": 25.2797
+        }
+    },
+    {
+        "hotel_id": "a_099",
+        "hotel_name": "Garden of Eden Resort",
+        "city": "Seychelles",
+        "country": "Seychelles",
+        "nightly_rate": 450.0,
+        "rooms_available": 3,
+        "star_rating": 4.9,
+        "coordinates": {
+            "lat": -4.6796,
+            "lng": 55.492
+        }
+    },
+    {
+        "hotel_id": "a_100",
+        "hotel_name": "Midnight Express Hotel",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "nightly_rate": 85.0,
+        "rooms_available": 24,
+        "star_rating": 3.6,
+        "coordinates": {
+            "lat": 44.7866,
+            "lng": 20.4489
+        }
+    },
+    {
+        "hotel_id": "a_101",
+        "hotel_name": "Templar Knights Inn",
+        "city": "Jerusalem",
+        "country": "Israel",
+        "nightly_rate": 195.0,
+        "rooms_available": 11,
+        "star_rating": 4.2,
+        "coordinates": {
+            "lat": 31.7683,
+            "lng": 35.2137
+        }
+    },
+    {
+        "hotel_id": "a_102",
+        "hotel_name": "Emerald Coast Resort",
+        "city": "Phuket",
+        "country": "Thailand",
+        "nightly_rate": 175.0,
+        "rooms_available": 12,
+        "star_rating": 4.3,
+        "coordinates": {
+            "lat": 7.8804,
+            "lng": 98.3923
+        }
+    },
+    {
+        "hotel_id": "a_103",
+        "hotel_name": "Windmill Heritage Hotel",
+        "city": "Bruges",
+        "country": "Belgium",
+        "nightly_rate": 165.0,
+        "rooms_available": 8,
+        "star_rating": 4.1,
+        "coordinates": {
+            "lat": 51.2093,
+            "lng": 3.2247
+        }
+    },
+    {
+        "hotel_id": "a_104",
+        "hotel_name": "Copper Mountain Lodge",
+        "city": "Denver",
+        "country": "USA",
+        "nightly_rate": 180.0,
+        "rooms_available": 15,
+        "star_rating": 4.0,
+        "coordinates": {
+            "lat": 39.7392,
+            "lng": -104.9903
+        }
+    },
+    {
+        "hotel_id": "a_105",
+        "hotel_name": "Midnight Stars Hotel",
+        "city": "Tallinn",
+        "country": "Estonia",
+        "nightly_rate": 120.0,
+        "rooms_available": 16,
+        "star_rating": 3.9,
+        "coordinates": {
+            "lat": 59.437,
+            "lng": 24.7536
+        }
+    }
+]

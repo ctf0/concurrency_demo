@@ -1,0 +1,122 @@
+{
+    "preset": "laravel",
+    "notPath": [
+        "tests/TestCase.php"
+    ],
+    "exclude": [
+        "lang",
+        "public"
+    ],
+    "rules": {
+        "array_push": true,
+        "backtick_to_shell_exec": true,
+        "date_time_immutable": true,
+        "declare_strict_types": true,
+        "phpdoc_add_missing_param_annotation": true,
+        "final_class": true,
+        "final_internal_class": true,
+        "trim_array_spaces": true,
+        "whitespace_after_comma_in_array": true,
+        "final_public_method_for_abstract_class": true,
+        "mb_str_functions": true,
+        "modernize_types_casting": true,
+        "multiline_promoted_properties": true,
+        "native_function_invocation": true,
+        "no_superfluous_elseif": true,
+        "no_useless_else": true,
+        "phpdoc_to_param_type": false,
+        "phpdoc_to_return_type": false,
+        "protected_to_private": true,
+        "return_assignment": true,
+        "no_empty_statement": true,
+        "semicolon_after_instruction": true,
+        "single_trait_insert_per_statement": false,
+        "strict_comparison": true,
+        "explicit_string_variable": true,
+        "strict_param": true,
+        "use_arrow_functions": true,
+        "new_with_parentheses": true,
+        "void_return": true,
+        "concat_space": { "spacing": "one" },
+        "php_unit_test_annotation": {
+            "style": "annotation"
+        },
+        "blank_line_before_statement": {
+            "statements": [
+                "break",
+                "case",
+                "continue",
+                "declare",
+                "default",
+                "do",
+                "exit",
+                "for",
+                "foreach",
+                "goto",
+                "if",
+                "include",
+                "include_once",
+                "phpdoc",
+                "require",
+                "require_once",
+                "return",
+                "switch",
+                "throw",
+                "try",
+                "while",
+                "yield",
+                "yield_from"
+            ]
+        },
+        "simple_to_complex_string_variable": true,
+        "blank_line_between_import_groups": true,
+        "attribute_empty_parentheses": true,
+        "class_attributes_separation": {
+            "elements": {
+                "const": "one",
+                "method": "one",
+                "property": "one",
+                "trait_import": "none",
+                "case": "none"
+            }
+        },
+        "ordered_imports": {
+            "sort_algorithm": "alpha",
+            "imports_order": [
+                "const",
+                "class",
+                "function"
+            ]
+        },
+        "global_namespace_import": {
+            "import_classes": true,
+            "import_constants": true,
+            "import_functions": true
+        },
+        "ordered_class_elements": {
+            "order": [
+                "use_trait",
+                "case",
+                "constant",
+                "constant_public",
+                "constant_protected",
+                "constant_private",
+                "property_public",
+                "property_protected",
+                "property_private",
+                "construct",
+                "destruct",
+                "magic",
+                "phpunit",
+                "method_abstract",
+                "method_public_static",
+                "method_public",
+                "method_protected_static",
+                "method_protected",
+                "method_private_static",
+                "method_private"
+            ],
+            "sort_algorithm": "none"
+        }
+    }
+}
